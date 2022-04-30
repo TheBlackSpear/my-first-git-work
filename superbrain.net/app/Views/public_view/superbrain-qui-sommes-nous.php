@@ -1,0 +1,4 @@
+<div class="jumbotron" style="margin-top:1em;">
+        <h2>Qu'est-ce que Super Brain ?</h2>
+        <p>Super Brain est une plateforme web de partage de ressources de formation et d'évaluation pour élèves de l'enseignement secondaire général ivoirien. <br> Avec Super Brain, partagez un devoir ou une évaluation qui vous a aidé à vous améliorer avec d'autres élèves. Trouvez également, des épreuves proposés par d'autres élèves pour vous évaluer. <br>Les corrigés des épreuves, proposés par des experts, seront bientôt disponibles sous certaines conditions. <br>Ce service a un objectif d'extension à d'autres pays.  </p>
+</div>
